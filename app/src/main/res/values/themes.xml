@@ -1,0 +1,10 @@
+<resources>
+    <style name="Theme.CutieAssistant" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">#FF6FB5</item>
+        <item name="colorPrimaryVariant">#E94560</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+        <item name="colorSecondary">#E94560</item>
+        <item name="android:windowBackground">#0A0A0F</item>
+        <item name="android:statusBarColor">#0A0A0F</item>
+    </style>
+</resources>
